@@ -1,9 +1,14 @@
-# api documentation for  [angular-sanitize (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-sanitize.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-sanitize) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-sanitize.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-sanitize)
+# npmdoc-angular-sanitize
+
+#### api documentation for  [angular-sanitize (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-sanitize.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-sanitize) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-sanitize.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-sanitize)
+
 #### AngularJS module for sanitizing HTML
 
-[![NPM](https://nodei.co/npm/angular-sanitize.png?downloads=true)](https://www.npmjs.com/package/angular-sanitize)
+[![NPM](https://nodei.co/npm/angular-sanitize.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular-sanitize)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-sanitize/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-angular-sanitize_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-sanitize/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-angular-sanitize/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-angular-sanitize/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-sanitize/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-sanitize/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-angular-sanitize/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Angular Core Team",
-        "email": "angular-core+npm@google.com"
+        "name": "Angular Core Team"
     },
     "bugs": {
         "url": "https://github.com/angular/angular.js/issues"
@@ -53,17 +57,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "angularcore",
-            "email": "angular-core+npm@google.com"
+            "name": "angularcore"
         },
         {
-            "name": "petebd",
-            "email": "pete@bacondarwin.com"
+            "name": "petebd"
         }
     ],
     "name": "angular-sanitize",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/angular/angular.js.git"
@@ -74,16 +75,6 @@
     "version": "1.6.4"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module angular-sanitize](#apidoc.module.angular-sanitize)
-
-
-
-# <a name="apidoc.module.angular-sanitize"></a>[module angular-sanitize](#apidoc.module.angular-sanitize)
 
 
 
