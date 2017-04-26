@@ -1,6 +1,6 @@
 # npmdoc-angular-sanitize
 
-#### api documentation for  [angular-sanitize (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-sanitize.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-sanitize) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-sanitize.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-sanitize)
+#### basic api documentation for  [angular-sanitize (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-sanitize.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-sanitize) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-sanitize.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-sanitize)
 
 #### AngularJS module for sanitizing HTML
 
@@ -72,7 +72,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.6.4"
+    "version": "1.6.4",
+    "bin": {}
 }
 ```
 
